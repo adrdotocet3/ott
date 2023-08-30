@@ -7,6 +7,7 @@
         "vname":"oa.cgg.1",
         "online":"true",
         "rom":"true",
+        "update":"true",
         "pkg":"com.hwsen.oat.SDK",
         "method":"onCreate",
         "param":"t"
